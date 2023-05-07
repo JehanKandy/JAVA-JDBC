@@ -4,6 +4,7 @@
  */
 package jdbc;
 
+import java.sql.*;
 /**
  *
  * @author Jehan
